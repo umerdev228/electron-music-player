@@ -96,6 +96,7 @@ To start the application in development mode, run:
 
 ```sh
 npm start
+```
 This will launch the Electron application, and you can start adding songs to your playlist and enjoy the music!
 
 Contributing
