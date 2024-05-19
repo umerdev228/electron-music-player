@@ -1,0 +1,16 @@
+{
+  "name": "music-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^30.0.2",
+    "jquery": "^3.7.1",
+    "music-metadata": "^7.14.0"
+  }
+}
